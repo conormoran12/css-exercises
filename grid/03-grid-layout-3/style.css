@@ -64,7 +64,7 @@
 .sidebar {
   grid-row: 2/4;
   display: grid;
-  grid-template-rows: repeat(4, auto-fit);
+  grid-template-rows: repeat(4, auto-fit); 
 }
 
 .sidebar .side-content {
